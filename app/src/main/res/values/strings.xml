@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">DialogsLabV2</string>
+
+    <!-- buttons -->
+    <!-- dialog - simple ok/cancel -->
+    <string name="dialog_fire_missiles">Fire Missiles!!</string>
+    <string name="fire">Fire</string>
+    <string name="cancel">Cancel</string>
+    <string name="launch_fire_missiles">Launch Fire Missiles</string>
+
+    <!-- dialog - list -->
+    <string name="launch_colors">Launch Colors</string>
+    <string name="pick_color">Pick a Color</string>
+    <array name="colors_array">
+        <item name="red">Red</item>
+        <item name="green">Green</item>
+        <item name="blue">Blue</item>
+    </array>
+
+    <!-- dialog - multicheckbox list -->
+    <string name="pick_toppings">Pick Toppings</string>
+    <array name="toppings_array">
+        <item name="pepperoni">Pepperoni</item>
+        <item name="mushrooms">Mushrooms</item>
+        <item name="peppers">Peppers</item>
+    </array>
+    <string name="ok">OK</string>
+
+    <string name="launch_multi_dialog">Launch Multiple Dialog</string>
+
+    <!-- dialog - custom -->
+    <string name="username">Enter username</string>
+    <string name="password">Enter password</string>
+    <string name="signin">Sign In</string>
+    <string name="launch_custom_dialog">Launch Custom Dialog</string>
+
+    <!-- dialog - time picker -->
+    <string name="launch_time_picker_dialog">Launch Time Picker</string>
+
+    <!-- dialog - date picker -->
+    <string name="launch_date_picker_dialog">Launch Date Picker</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
